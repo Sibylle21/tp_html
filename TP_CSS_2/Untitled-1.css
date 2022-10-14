@@ -1,0 +1,30 @@
+h1 { 
+    color: red; 
+    text-align: center; 
+    font-size: 70px;
+}
+h2 {
+    color: blue; 
+    font-size: 40px; 
+}
+p { 
+    background-color: #808080d0;
+}
+#dp {
+    background-color: rgba(235, 96, 188, 0.795);
+}
+strong {
+    font-weight: 100; 
+    color: yellowgreen;
+}
+em {
+    font-style: normal; 
+    text-decoration: underline; 
+    font-size: x-large ; 
+    color: orange;
+}
+#t2 {
+    color: green; 
+    text-decoration: underline; 
+    text-align: right;
+}
